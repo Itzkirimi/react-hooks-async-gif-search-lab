@@ -1,10 +1,7 @@
 ---
 :lessons:
-- :id: 250573
-  :course_id: 6667
-  :canvas_url: https://learning.flatironschool.com/courses/6667/pages/async-giphy-search-lab
-  :type: page
-- :id: 296541
-  :course_id: 7553
-  :canvas_url: https://learning.flatironschool.com/courses/7553/pages/async-giphy-search-lab
-  :type: page
+- :id: 68047
+  :course_id: 3264
+  :canvas_url: https://learning.flatironschool.com/courses/3264/assignments/68047
+  :type: assignment
+    
